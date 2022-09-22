@@ -7,6 +7,8 @@ TagManager:
   - Platform
   - Controller
   - Ground
+  - Block
+  - Ant
   layers:
   - Default
   - TransparentFX

@@ -32,6 +32,7 @@ public class GameController : MonoBehaviour
         #endregion
     }
 
+
     private void Update()
     {
         ChangeAnts();
@@ -64,4 +65,5 @@ public class GameController : MonoBehaviour
         SceneManager.LoadScene(sceneIndex);
     }
     #endregion
+
 }
